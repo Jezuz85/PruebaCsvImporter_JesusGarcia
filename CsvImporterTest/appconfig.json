@@ -1,0 +1,15 @@
+{
+	"exclude": [
+		"**/bin",
+		"**/bower_components",
+		"**/jspm_packages",
+		"**/node_modules",
+		"**/obj",
+		"**/platforms"
+	],
+	"AppSettings": {
+		"UrlfileRemote": "C:\\Users\\User\\Documents\\TestJesusGarcia\\CsvImporter\\Files\\Stock.csv",
+		"UrlfileLocal": "C:\\Users\\User\\Documents\\TestJesusGarcia\\CsvImporter\\Files\\Stock",
+		"ConectionDB": "Server=DESKTOP-CRH25O6\\SQL_PRUEBAS;Database=CsvImporter;Integrated Security=True"
+	}
+}
